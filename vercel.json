@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/redeem.js": {
+      "runtime": "nodejs20.x"
+    }
+  }
+}
